@@ -1,0 +1,5 @@
+/home/beier/IdeaProjects/message-utilities/src/main/java/messaging/implementations/RabbitMqQueue.java
+/home/beier/IdeaProjects/message-utilities/src/main/java/messaging/implementations/MessageQueueAsync.java
+/home/beier/IdeaProjects/message-utilities/src/main/java/messaging/implementations/MessageQueueSync.java
+/home/beier/IdeaProjects/message-utilities/src/main/java/messaging/Message.java
+/home/beier/IdeaProjects/message-utilities/src/main/java/messaging/MessageQueue.java

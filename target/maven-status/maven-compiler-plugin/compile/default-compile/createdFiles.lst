@@ -1,0 +1,5 @@
+messaging/implementations/MessageQueueAsync.class
+messaging/MessageQueue.class
+messaging/Message.class
+messaging/implementations/MessageQueueSync.class
+messaging/implementations/RabbitMqQueue.class
