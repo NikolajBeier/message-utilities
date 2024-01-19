@@ -1,4 +1,4 @@
-package messaging.implementations;
+package message.implementations;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -8,8 +8,8 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 import java.util.function.Consumer;
 
-import messaging.Message;
-import messaging.MessageQueue;
+import message.Message;
+import message.MessageQueue;
 
 public class MessageQueueAsync implements MessageQueue {
 

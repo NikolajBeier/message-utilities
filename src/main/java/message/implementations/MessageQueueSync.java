@@ -1,4 +1,4 @@
-package messaging.implementations;
+package message.implementations;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,8 +6,8 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.function.Consumer;
 
-import messaging.Message;
-import messaging.MessageQueue;
+import message.Message;
+import message.MessageQueue;
 
 public class MessageQueueSync implements MessageQueue {
 

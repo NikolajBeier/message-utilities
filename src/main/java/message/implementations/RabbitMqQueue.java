@@ -1,4 +1,4 @@
-package messaging.implementations;
+package message.implementations;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
@@ -13,8 +13,8 @@ import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
 import com.rabbitmq.client.DeliverCallback;
 
-import messaging.Message;
-import messaging.MessageQueue;
+import message.Message;
+import message.MessageQueue;
 
 public class RabbitMqQueue implements MessageQueue {
 	
